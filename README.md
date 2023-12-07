@@ -2,5 +2,5 @@
 
 This is a sample for design using in it animation and flip cards
 
-##🎥 screen record:
+# 🎥 screen record:
 https://www.youtube.com/watch?v=JazPiA4zQIU
